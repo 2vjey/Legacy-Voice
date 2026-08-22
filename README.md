@@ -25,7 +25,7 @@ Words fade. Voices are forgotten. LegacyVoice preserves both, turning simple mem
 Arts - Ignition Hacks 2026
 
 ##Live Demo
-https://venomous-ever-lasting-voice.base44.app
+https://venomous-ever-lasting-voice.base44.app/
 
 ## Team
 - Thuvarahan Jeyaseelan
