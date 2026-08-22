@@ -1,7 +1,7 @@
 # LegacyVoice
 ### Preserve your words forever
 
-##What it does
+## What it does
 LegacyVoice transforms personal memories and jot notes into beautifully written heartfelt letters; elegantly formatted and read aloud sing ElevenLabs AI voice technology.
 
 ## The problem it solves
@@ -21,10 +21,10 @@ Words fade. Voices are forgotten. LegacyVoice preserves both, turning simple mem
 - ElevenLabs - AI voice generation
 - AI letter writing - transforms raw memories into elegant heartfelt letters
 
-##Track
+## Track
 Arts - Ignition Hacks 2026
 
-##Live Demo
+## Live Demo
 https://venomous-ever-lasting-voice.base44.app/
 
 ## Team
