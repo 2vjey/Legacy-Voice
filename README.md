@@ -1,4 +1,4 @@
-# Legacy-Voice
+# LegacyVoice
 ### Preserve your words forever
 
 ##What it does
